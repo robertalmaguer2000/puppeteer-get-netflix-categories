@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ git clone 
+$ git clone https://github.com/RobertJGabriel/puppeteer-get-netflix-categories
 ```
 
 

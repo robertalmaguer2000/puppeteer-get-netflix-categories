@@ -1,6 +1,6 @@
 # Puppeteer Netflix Categories
 
-> Runs a puppeteer script to scrap and download all categories in a json file.
+> Runs a puppeteer script to scrap and download all netflix categories in a json file.
 
 
 ## Install

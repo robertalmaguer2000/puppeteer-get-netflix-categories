@@ -12,12 +12,12 @@ $ git clone
 
 ## Usage
 
-Download or clone this repo.
-Enter your Netflix email and password in the config file.
-You can also choose to enable headless mode in Chrome.
-You can also set the error limit, if there is no category, how many more will it try.
+- Download or clone this repo.
+- Enter your Netflix email and password in the config file.
+- You can also choose to enable headless mode in Chrome.
+- You can also set the error limit, if there is no category, how many more will it try.
 
-This will create file called results.json
+- This will create file called results.json
 
 ```bash
 $ node index.js

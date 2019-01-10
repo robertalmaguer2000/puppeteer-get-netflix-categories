@@ -1,0 +1,7 @@
+{
+    "username":"",
+    "password": "",
+    "errorLimit": 1000,
+    "headless": true,
+    "showLoading": true
+}
